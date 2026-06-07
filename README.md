@@ -1,2 +1,1 @@
-# amit_databricks
-amit databricks demo 07062026
+This is my first code in databricks.
